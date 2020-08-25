@@ -1049,7 +1049,7 @@ podcast](https://anchor.fm/scott-shapiro).
   - Both exclusive and inclusive legal positivists accept the idea that
     criteria for legal validity (grounds of law) are determined by
     consensus
-      - Dworkin: that assumes there is consensus, but there are
+      - Dworkin: that assumes there *is* consensus, but there are
         theoretical disagreements about what the grounds of law are
       - Positivists can’t explain the possibility of disagreements
   - Constructive interpretation: imposing purpose on social practice so
@@ -1059,9 +1059,10 @@ podcast](https://anchor.fm/scott-shapiro).
   - Which grounds of law fit and justify legal practice?
   - For Dworkin, 2 stages to legal interpretation:
     1.  What are the grounds of law?
-    2.  In a given case, do the grounds of law apply? In order to figure
-        out which propositions are true and decide the case
-  - Dworkin approaches the first state in two substages: figure out
+    2.  In a given case, do the grounds of law apply?
+          - In order to figure out which propositions are true and
+            decide the case
+  - Dworkin approaches the first stage in two substages: figure out
     concept of law, then the right conception of law
       - Concept: what would make the law the best it can be at very
         abstract level
@@ -1073,7 +1074,7 @@ podcast](https://anchor.fm/scott-shapiro).
     responsibilities that flow from past political acts
       - Dworkin thinks everyone will sign onto this, but maybe this
         doesn’t hold up
-          - Law doesn’t just *limit* the state, but *guides* the state
+      - Law doesn’t just *limit* the state, but *guides* the state
 
 ## Conventionalism
 
@@ -1145,7 +1146,7 @@ podcast](https://anchor.fm/scott-shapiro).
   - Rawls’s theory of justice: justice as fairness
   - Dworkin: like the best interpretation of justice is fairness, the
     best intepretation of law is integrity
-  - Grounds of law are those which present past political acts in their
+  - Grounds of law are those that present past political acts in their
     best light
   - Does it fit?
       - Dworkin says yes, because it can explain something that other
@@ -1216,7 +1217,7 @@ podcast](https://anchor.fm/scott-shapiro).
             first-order reasons better than if we complied with them
             directly
           - Second-order reasons to exclude first-order reasons
-              - Ex: make a plan in advance because you know in the
+              - E.g. you make a plan in advance because you know in the
                 moment you’ll mess up the balancing of first-order
                 reasons
       - Raz says legitimate authorities provide us with second-order,
@@ -1369,7 +1370,7 @@ podcast](https://anchor.fm/scott-shapiro).
   - But purpose of legal organization is moral in nature
       - Fundamental aim of law is to rectify moral deficiency associated
         with circumstances of legality
-      - Meet moral demand of circumstances of legality in efficient
+      - Meet moral demand of the circumstances of legality in efficient
         manner
           - Enable communities to solve numerous, serious problems that
             would otherwise be too costly/risky to resolve
@@ -1401,8 +1402,7 @@ podcast](https://anchor.fm/scott-shapiro).
         them in cases of dispute. Constituted by officials whose
         intentions are irrelevant, rules binding irrespective of
         consent. Aim to solve problems that can’t be solved through
-        other forms of social ordering. But not a legal system\! Why
-        not?
+        other forms of social ordering. But not a legal system. Why not?
       - Maybe: legal systems always claim *supreme authority*, and
         Florida law trumps the condo rules
           - This argument doesn’t work because then Florida wouldn’t
@@ -1421,7 +1421,7 @@ podcast](https://anchor.fm/scott-shapiro).
         involved
           - Condo board doesn’t enjoy same presumption of
             validity/compliance as state government
-  - Legal systems are *self-certifying* systems
+  - Legal systems are self-certifying systems
       - Planning organization is self-certifying when it enjoys
         *presumption of validity* from superior planning organization
       - Thus, condo board is not a legal system, but Florida law is
@@ -1593,8 +1593,8 @@ podcast](https://anchor.fm/scott-shapiro).
       - But we will assume that every legal system has its own
         interpretive methodology – might need to distinguish federal
         system, state, etc.
-  - Interpretive methodology doesn’t just take text into account. Ex:
-    originalism, take into account original understanding
+  - Interpretive methodology doesn’t just take text into account.
+      - E.g. originalism: take into account original understanding
       - Other events, mental states of those who framed the provisions
         are important
   - So, interpretive methodology is more precisely a function that takes
@@ -1675,7 +1675,7 @@ podcast](https://anchor.fm/scott-shapiro).
     according to their purpose - Flawed because plans are adopted not
     just to achieve a certain purpose, but also because they are trying
     to deal with certain constraints that make decisions on the spot
-    difficult - Ex: lack of trust - More distrustful the plan is in the
+    difficult - E.g. lack of trust - More distrustful the plan is in the
     subject of the plan, the less discretion they should have in
     interpreting the text
   - Expand to the law: think of legal systems as distributions of trust
@@ -1699,8 +1699,8 @@ podcast](https://anchor.fm/scott-shapiro).
         interpreters to go to deeper issues in cases of doubt, because
         then you’re undoing what the plan was meant to solve
   - Meta-interpreter should figure out the economy of trust of a legal
-    system and level of pluralism, and accord enough discretion to
-    interpreters that is appropriate
+    system and level of pluralism, and accord the appropriate discretion
+    to interpreters
   - Disagreement about interpretive methodology can be reconstructed as
     disagreements about level of trust and the level of conflict of
     values
